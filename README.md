@@ -37,7 +37,7 @@ Before running the application, ensure you have the following installed:
 ## Usage 
 1. Run the Flask app
    `python app.py`
-    `python3 app.py`  {Alternatively}
+    /`python3 app.py`  {Alternatively}
 2. Navigate to the server https link in the console onto your browser.
    Example; `https://73*.*.0.*:8***`
 
