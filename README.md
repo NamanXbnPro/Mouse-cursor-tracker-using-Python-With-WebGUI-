@@ -32,7 +32,7 @@ Before running the application, ensure you have the following installed:
    `pip install -r requirements.txt`
 
    {If error occurs while installing the depecdencies through `requirements.txt` file}
-   Use `pip install "Dependency"`
+   Use `pip install "{name of dependency}"`
 
 ## Usage 
 1. Run the Flask app
